@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+// Normal Controller
+
 namespace Carta.Controllers
 {
     public class HomeController : Controller
